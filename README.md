@@ -31,7 +31,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Automated-Response-Generation-Customer-Support.git
+git clone https://github.com/MohideenFasith/Automated-Response-Generation-for-Customer-Support.git
 cd Automated-Response-Generation-Customer-Support
 Create and activate a virtual environment:
 
